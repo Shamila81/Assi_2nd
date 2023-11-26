@@ -78,3 +78,4 @@ gasoline_car.travelled_distance += gasoline_car.current_speed * 3
 
 print("Electric car's kilometer counter:", electric_car.travelled_distance)
 print("Gasoline car's kilometer counter:", gasoline_car.travelled_distance)
+
