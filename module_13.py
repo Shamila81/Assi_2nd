@@ -52,3 +52,4 @@ def get_airport_by_icao(icao_code):
 if __name__ == '__main__':
     app.run(debug=True)
 
+
